@@ -22,3 +22,8 @@ position: relative;
 .container {
   text-align: center;
 }
+
+blockquote {
+  border-left: 5px solid #eee;
+  font: 17px;
+}
