@@ -14,7 +14,8 @@ position: relative;
 
 h3 {
   margin-top:30px;
-  margin-bottom:30px
+  margin-bottom:30px;
+
 }
 .contact {
   width: 300px;
@@ -43,4 +44,32 @@ blockquote {
 .thumb {
   float: left;
   margin-top: 2cm
+}
+
+.subheader {
+  margin-left: 2cm;
+  font-size: 13px;
+}
+
+h1{
+  word-spacing: 7px;
+  letter-spacing: 4px;
+  font-family: Italianno;
+  font-style: italic;
+
+}
+
+p {
+  font-family: Georgia, serif;
+}
+
+h3{
+
+  font-family: Italianno;
+  font-style: italic;
+}
+
+nav nav-tabs {
+  font-family: Italianno;
+  font-style: italic;
 }
