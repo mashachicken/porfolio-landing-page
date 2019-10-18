@@ -12,6 +12,10 @@ position: relative;
   float: right;
 }
 
+h3 {
+  margin-top:30px;
+  margin-bottom:30px
+}
 .contact {
   width: 300px;
   border: 15px solid green;
@@ -29,4 +33,14 @@ blockquote {
   font-size: 10px;
   font-style: italic;
   color: grey;
+
+}
+
+.quote {
+  float: left;
+}
+
+.thumb {
+  float: left;
+  margin-top: 2cm
 }
