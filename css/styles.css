@@ -8,7 +8,12 @@ a{
 color: black;
 }
 
-#contact1 {
+.container2 {
+  background-color: rgba(255,255,255,0.5);
+  color: black;
+}
+
+#blackbg {
   color: black;
 
 }
