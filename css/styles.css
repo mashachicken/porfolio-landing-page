@@ -1,5 +1,7 @@
 li {
 padding-right: 4cm;
+font-family: Italianno;
+font-style: italic;
 }
 
 .image1 {
@@ -69,7 +71,13 @@ h3{
   font-style: italic;
 }
 
-nav nav-tabs {
+.nav.nav-tabs {
   font-family: Italianno;
   font-style: italic;
+}
+
+body {
+  background-image: url("k22.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
 }
