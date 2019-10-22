@@ -1,4 +1,4 @@
-##Portfolio Landing Project
+###Portfolio Landing Project
 
 #### Masha Ivy's portfolio, 10.18.2019
 
@@ -10,8 +10,9 @@
 
 ## Setup/Installation Requirements
 
-#To check out my website, visit my GitHub page or clone my project into your Desktop. Below I will attach a direct link to clone my repository
-
+#To check out my website, visit my GitHub page or clone my project into your Desktop. Below I will attach a direct link to my GitHub Pages 
+* My GitHub Pages :https://mashachicken.github.io/porfolio-landing-page/
+##OR
 * Open the terminal and type "git clone https://github.com/mashachicken/porfolio-landing-page.git "
 * Press enter. Your local clone will be created
 * Open the index.html file in a browser of your choice
